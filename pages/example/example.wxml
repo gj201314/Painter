@@ -13,7 +13,6 @@
     bind:touchEnd="touchEnd" 
     action="{{action}}"
     use2D="{{true}}"
-    widthPixels="1000"
     />
   <!-- <image src="{{image}}" style="width: 654rpx; height: 1000rpx; margin-left:40rpx;"/> -->
   
