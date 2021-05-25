@@ -897,3 +897,8 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+微信开放社区相关讨论：
+   https://developers.weixin.qq.com/community/develop/doc/000048447844f80b9107d64ab51006
+   
+   https://developers.weixin.qq.com/community/develop/article/doc/000e222d9bcc305c5739c718d56813
